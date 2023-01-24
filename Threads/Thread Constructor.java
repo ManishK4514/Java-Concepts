@@ -5,7 +5,7 @@ class Thread1 extends Thread{
     @Override
     public void run(){
         System.out.println("Welcome to the run method of therea!");
-    }
+    }           
 }
 
 public class Thread_Constructors {
