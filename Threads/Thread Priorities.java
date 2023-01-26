@@ -7,7 +7,7 @@ class Thread1 extends Thread{
         while(true){
             System.out.println("I am:  " + Thread.currentThread().getName());
         }
-    }
+    }                                                           
 }
 
 
